@@ -25,7 +25,7 @@ The project uses the following methodology:
 
 **Project Results:**
 
-The results of the project show that the Naive Bayes classifier implemented from scratch performs as well as the Multinomial Naive Bayes classifier from sklearn. The accuracy of both classifiers is around 80%.
+The results of the project show that the Naive Bayes classifier implemented from scratch performs as well as the Multinomial Naive Bayes classifier from sklearn. The accuracy of both classifiers is around 87%.
 
 **Project Conclusion:**
 
