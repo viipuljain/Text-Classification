@@ -1,5 +1,4 @@
 # Text-Classification
-Sure, here is a project description for your Text Classification Using Naive Bayes project in GitHub:
 
 **Project Title:** Text Classification Using Naive Bayes
 
